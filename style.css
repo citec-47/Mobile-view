@@ -338,8 +338,9 @@ i {
   cursor: pointer;
   outline: none;
 }
-.resume:hover{
-  background-color:#6070ff;
+
+.resume:hover {
+  background-color: #6070ff;
   color: white;
 }
 
@@ -482,7 +483,7 @@ form {
   cursor: pointer;
 }
 
-.submit:hover{
-  background-color:#6070ff;
+.submit:hover {
+  background-color: #6070ff;
   color: white;
 }
