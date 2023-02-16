@@ -338,6 +338,10 @@ i {
   cursor: pointer;
   outline: none;
 }
+.resume:hover{
+  background-color:#6070ff;
+  color: white;
+}
 
 .languages {
   margin: 40px 10px 0 10px;
@@ -476,4 +480,9 @@ form {
   border-radius: 5px;
   font-weight: 500;
   cursor: pointer;
+}
+
+.submit:hover{
+  background-color:#6070ff;
+  color: white;
 }
